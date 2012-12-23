@@ -9,7 +9,7 @@ I rewrote it manually as an exercise for my first RubyMotion application. I also
 the syntax nicer and wrote it more idiomatic Ruby because, otherwise, what's the point
 of using Ruby?
 
-If you're really super interested in running this app (or its specs), for some reason, you
+If for some reason you're really super interested in running this app (or its specs), you
 can do it like this:
 
 1. [Buy a RubyMotion License.](http://www.rubymotion.com/)
